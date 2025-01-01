@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    header, footer { background-color: #f4f4f4; padding: 10px 20px; text-align: center; }
+    .hero { text-align: center; padding: 20px; background: #ddd; }
+    .products { display: flex; justify-content: space-around; padding: 20px;  }
+    .product { text-align: center; }
+    .cta { background-color: #ff5722; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
+    .nav a { text-decoration: none; color:  black; margin-right: 20px; background-color: #ff5722; padding: 5px; border-radius: 5px;}
